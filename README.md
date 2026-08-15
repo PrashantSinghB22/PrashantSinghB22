@@ -2,13 +2,16 @@
 
 # PRASHANT SINGH
 
-### Software Developer · AI · Systems · Full-Stack
+### `AI` · `SYSTEMS` · `SOFTWARE ENGINEERING`
 
-Building software to understand how things work under the hood.
+**I build things to understand how they work.**
+
+From implementing transformer architectures from scratch  
+to building full-stack applications and low-level systems.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-PrashantSinghB22-181717?style=for-the-badge&logo=github)](https://github.com/PrashantSinghB22)
+[![GitHub](https://img.shields.io/badge/GitHub-PrashantSinghB22-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrashantSinghB22)
 
 </div>
 
@@ -30,36 +33,47 @@ I enjoy going beyond using abstractions — understanding what happens underneat
 
 <table>
 <tr>
-<td width="50%">
 
-### 🧠 LLM FROM SCRATCH
+<td width="50%" valign="top">
 
-A GPT-style language model implemented in **PyTorch** from first principles.
+<h3>🧠 LLM FROM SCRATCH</h3>
 
-Exploring:
+Building a GPT-style language model from first principles.
 
-- Tokenization
-- Embeddings
-- Self-Attention
-- Multi-Head Attention
-- Transformer Blocks
-- Autoregressive Generation
+<br>
 
-[View Project →](https://github.com/PrashantSinghB22/llm-from-scratch)
+<strong>Focus</strong>
+
+PyTorch · Transformers · Attention · Deep Learning
+
+<br>
+
+<a href="https://github.com/PrashantSinghB22/llm-from-scratch">
+View repository →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🏦 HORIZON BANKING</h3>
+
+Building a modern full-stack banking application.
+
+<br>
+
+<strong>Focus</strong>
+
+Next.js · TypeScript · Full-Stack Development
+
+<br>
+
+<a href="https://github.com/PrashantSinghB22/horizon-banking">
+View repository →
+</a>
 
 </td>
 
-<td width="50%">
-
-### 🏦 HORIZON BANKING
-
-A modern banking application built with **Next.js and TypeScript**.
-
-Focused on building a complete application rather than isolated features.
-
-[View Project →](https://github.com/PrashantSinghB22/horizon-banking)
-
-</td>
 </tr>
 </table>
 
@@ -67,11 +81,28 @@ Focused on building a complete application rather than isolated features.
 
 ## SYSTEMS & ENGINEERING
 
-### ⚙️ CODECRAFTERS SHELL
+<table>
+<tr>
+<td width="100%" valign="top">
 
-Building a POSIX-style shell in Python while learning how command-line systems work at a lower level.
+<h3>⚙️ CODECRAFTERS SHELL</h3>
 
-[View Project →](https://github.com/PrashantSinghB22/codecrafters-shell-python)
+Building a POSIX-style shell in Python to understand
+processes, commands, pipes, redirection and the Unix environment.
+
+<br><br>
+
+<strong>Python · Systems Programming · Unix</strong>
+
+<br><br>
+
+<a href="https://github.com/PrashantSinghB22/codecrafters-shell-python">
+View repository →
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
